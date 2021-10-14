@@ -9,7 +9,7 @@
 #include <iomanip>
 
 float convertToPercentage(std::string gradeLevel) {
-    // This function converts Ontario's Grading to percentage 
+    // This function converts Ontario's Grading to percentage
     float percentage;
 
     // process & output
